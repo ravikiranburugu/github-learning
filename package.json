@@ -1,0 +1,21 @@
+{
+  "name": "github-learning",
+  "version": "1.0.0",
+  "description": "Learning more and advance github features.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravikiranburugu/github-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ravikiranburugu/github-learning/issues"
+  },
+  "homepage": "https://github.com/ravikiranburugu/github-learning#readme"
+}
